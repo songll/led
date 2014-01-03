@@ -34,7 +34,7 @@ int main(void)
 	unsigned short upgrade_led;
 	upgrade_led = 1;
 
-
+printf("welcom to main!\n");
 	while(1)
 	{
 		in_count++;
